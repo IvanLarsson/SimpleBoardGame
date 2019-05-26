@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="skymill_test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/skymill_test_jar</output-path>
+    <root id="archive" name="skymill_test.jar">
+      <element id="module-output" name="skymill_test" />
+    </root>
+  </artifact>
+</component>
